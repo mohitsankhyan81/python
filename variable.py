@@ -2,6 +2,7 @@ name="mohit";
 rollno=23;
 price=34.12;
 name2=True;
+a=None
 
 age2=rollno;
 
@@ -14,3 +15,4 @@ print(type(name));
 print(type(age2));
 print(type(price));
 print(type(name2))
+print(type(a));
