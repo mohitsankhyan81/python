@@ -6,5 +6,5 @@
 # print("sweet") if food == "cake" or food == "jalabi" else print("not sweet");
 
 #clever if turnery operator
-age=int(input("age: "));
-vote=("yes","no")[age>=18];
+# age=int(input("age: "));
+# vote=("yes","no")[age>=18];
