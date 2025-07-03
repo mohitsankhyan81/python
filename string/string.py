@@ -5,3 +5,5 @@ str3="""My name is Mohit Sankhyan""";
 print(str1);
 print(str2);
 print(str3);
+
+"my name it's mohit sankhyan"
