@@ -1,7 +1,7 @@
 list=["mohit","arpit","manish","rohit"]
 
 def fun(list):
-    len=len(list)
-    print(len)
+    p=len(list)
+    print(p)
 
-fun()
+fun(list)
