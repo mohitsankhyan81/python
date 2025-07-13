@@ -6,4 +6,6 @@ class student:
 
 s1=student("rahul")
 print(s1.name) # rahul
+s2=student("rohit sharma")
+print(s2.name)
  
