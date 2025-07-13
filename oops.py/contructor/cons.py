@@ -5,4 +5,5 @@ class student:
         print("adding new student in a new class")
 
 s1=student("rahul")
-print(s1.name)
+print(s1.name) # rahul
+ 
