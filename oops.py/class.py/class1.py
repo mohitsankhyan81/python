@@ -1,7 +1,7 @@
 # example of a  car
 
 class car:
-    color="red",
+    color="red"
     modle="marti"
 
 car1=car()

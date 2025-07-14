@@ -9,7 +9,7 @@ class student:
         print("add element in class oops")
 
     def welcome(self):
-        print("welcome Students")
+        print("welcome Students") 
 
 s1=student("karan",43)
 s1.welcome()
