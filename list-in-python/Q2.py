@@ -22,4 +22,3 @@ person1.credit(40000)
 person1.devit(5000)
 print("Current balance is:", person1.getbalance(0))
 
-print("Current balance is:", person1.getbalance(0))
